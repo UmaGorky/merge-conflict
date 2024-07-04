@@ -15,5 +15,9 @@ Feature1
 //Sample code
 }
 
+Feature2
+{
+ //Sample Code for feature2
+}
 
 }
